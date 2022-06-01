@@ -54,7 +54,8 @@ a {
 header {
     background: url(shutterstock_1195362250.jpg);
     height: 100vh;
-    background-size: cover; 
+    background-size: cover;
+    width: 102%;
 }
 .contenedor {
     width: 90%;

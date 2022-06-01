@@ -267,6 +267,9 @@ span {
         background: #5cb8ff;
         width: 100%;
     }
+    header {
+        margin-left: 1%;
+    }
     nav .lista {
         flex-direction: column;
         display: flex;

@@ -266,9 +266,10 @@ span {
         left: 0px;
         background: #5cb8ff;
         width: 100%;
+        margin-left: 1%;
     }
     header {
-        margin-left: 1%;
+        margin-left: 0%;
     }
     nav .lista {
         flex-direction: column;
